@@ -37,9 +37,12 @@ In 2025, I will lead or participate in the following research topics:
 </div> -->
 
 ## Peer-Reviewed
-- [Abundant Modalities Offer More Nutrients: Multi-Modal-Based Function-level Vulnerability Detection.](https://dl.acm.org/doi/pdf/10.1145/3731557)<br>
-  Chao Ni, <span style="color: blue;">**Xin Yin\#**</span>, Xiaodan Xu.<br>
-  In *ACM Transactions on Software Engineering and Methodology (TOSEM'25)*. (<span style="color:red">CCF-A</span>)
+- [SCAnoGenerator: Automatic Anomaly Injection for Ethereum Smart Contracts.](https://titan.csit.rmit.edu.au/~e13322/hai_dong/papers/TSE_SCAnoGenerator.pdf)<br>
+  **Ben Wang**, Yanxiang Tong, Shunhui Ji, Hai Dong, Xiapu Luo, Pengcheng Zhang.<br>
+  In *IEEE Transactions on Software Engineering (TSE'24)*. (<span style="color:red">CCF-A</span>)
+- [SCAnoGenerator: Automatic Anomaly Injection for Ethereum Smart Contracts.](https://titan.csit.rmit.edu.au/~e13322/hai_dong/papers/TSE_SCAnoGenerator.pdf)<br>
+  Pengcheng Zhang, <span style="color: blue;">**Ben Wang\#**</span>, Xiapu Luo, Hai Dong.<br>
+  In *IEEE Transactions on Software Engineering (TSE'24)*. (<span style="color:red">CCF-A</span>)
 - [Reasoning to Attend: Try to Understand How \<SEG\> Token Works.](https://arxiv.org/pdf/2412.17741)<br>
   Rui Qian, <span style="color: blue;">**Xin Yin**</span>, Dejing Dou.<br>
   In *Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR'25)*. (<span style="color:red">CCF-A</span>)
@@ -86,19 +89,16 @@ In 2025, I will lead or participate in the following research topics:
   <span style="color: blue;">**Xin Yin**</span>, **Arxiv**
 
 # 🎖 Honors and Awards
-- *2025.06*, 浙江大学争创优秀博士学位论文资助 
+
 
 # 💬 Academic Services
-- Journal Reviewer: IEEE Transactions on Software Engineering (TSE), 2025.
+
 
 # 📖 Educations
-- *2022.09 - Present*, Ph.D. student, Zhejiang University.
-- *2018.09 - 2022.06*, Bachelor, Central South University.
+
 
 <!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
 
 # 💻 Internships
-- *2024.06 - Present*, State Key Laboratory of Blockchain and Data Security, Hangzhou.
-- *2023.07 - 2023.10*, Software Engineering Application Technology Lab at Huawei, Hangzhou.
+
