@@ -10,31 +10,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Ben Wang (王奔)** is the two-year Ph.D. student at [Hohai University](https://en.hhu.edu.cn/), supervised by [Prof. Pengcheng zhang](https://cies.hhu.edu.cn/2024/0521/c21523a280135/page.htm). 
+**Ben Wang (王奔)** is the two-year Ph.D. student at [Hohai University](https://en.hhu.edu.cn/), supervised by [Prof. Pengcheng Zhang](https://cies.hhu.edu.cn/2024/0521/c21523a280135/page.htm). 
 
-My research interest includes **Large Language Model, Software Testing, and Software Security**. I have published papers at the top international conferences such as **TSE/TOSEM**. I developed a few well-known approaches including:
-- [SVulD](https://github.com/vinci-grape/SVulD) and [MVulD](https://github.com/vinci-grape/MVulD): Vulnerability Detection
-- [CodeGPTSensor+](https://github.com/vinci-grape/CodeGPTSensor-plus): LLM-generated Code Detection
-- [ThinkRepair](https://github.com/vinci-grape/ThinkRepair): Program Repair
-- [Rectifier](https://github.com/vinci-grape/Rectifier): Code Translation
-- [AUGER](https://github.com/vinci-grape/AUGER) and [RATester](): Unit Test Generation
+My research interest includes **Large Language Model and Software Security**. I have published papers at the top international conferences such as **TSE/TOSEM**. I developed a few well-known approaches including:
 
 In 2025, I will lead or participate in the following research topics:
 - Software Testing: Unit Test Generation
 - Large Language Models (LLMs): Knowledge Editing
 
-# 🔥 News
-- *2025.04*: &nbsp;🎉 One paper was accepted by TOSEM 2025!
-- *2025.02*: &nbsp;🎉 One paper was accepted by CVPR 2025!
-<!-- - *2024.09*: &nbsp;🎉 One paper was accepted by APSEC 2024! -->
-- *2024.10*: &nbsp;🎉 One paper was accepted by ICSE 2025!
-<!-- - *2024.09*: &nbsp;🎉 One paper was accepted by TPAMI 2024! -->
-- *2024.09*: &nbsp;🎉 One paper was accepted by TSE 2024!
-- *2024.07*: &nbsp;🎉 One paper was accepted by ISSTA 2024!
-<!-- - *2023.09*: &nbsp;🎉 One paper was accepted by EMNLP 2023! -->
-- *2023.05*: &nbsp;🎉 One paper was accepted by FSE 2023! 
-<!-- - *2023.03*: &nbsp;🎉 One paper was accepted by ICPC 2023! -->
-<!-- - *2022.11*: &nbsp;🎉 One paper was accepted by ISPA 2022! -->
 
 # 📝 Selected Publications
 <!-- **\# denotes co-first author or first student author** -->
