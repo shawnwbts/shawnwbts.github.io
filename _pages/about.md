@@ -37,13 +37,13 @@ In 2025, I will lead or participate in the following research topics:
 </div> -->
 
 ## Peer-Reviewed
-- ``TOSEM'25``[A Review of Learning-based Smart Contract Vulnerability Detection: A Perspective on Code Representation.](minor revisions)<br>
+- ``TOSEM'25`` [A Review of Learning-based Smart Contract Vulnerability Detection: A Perspective on Code Representation.](minor revisions)<br>
   <span style="color: blue;">**Ben Wang**</span>, Yanxiang Tong, Shunhui Ji, Hai Dong, Xiapu Luo, Pengcheng Zhang.<br>
   In *ACM Transactions on Software Engineering and Methodology*. (<span style="color:red">CCF-A</span>)
-- ``TSE'25``[SCAnoGenerator: Automatic Anomaly Injection for Ethereum Smart Contracts.](https://titan.csit.rmit.edu.au/~e13322/hai_dong/papers/TSE_SCAnoGenerator.pdf)<br>
+- ``TSE'24`` [SCAnoGenerator: Automatic Anomaly Injection for Ethereum Smart Contracts.](https://titan.csit.rmit.edu.au/~e13322/hai_dong/papers/TSE_SCAnoGenerator.pdf)<br>
   Pengcheng Zhang, <span style="color: blue;">**Ben Wang\#**</span>, Xiapu Luo, Hai Dong.<br>
   In *IEEE Transactions on Software Engineering*. (<span style="color:red">CCF-A</span>)
-- ``APSEC'21``[Smart contract vulnerability detection using code representation fusion.](https://titan.csit.rmit.edu.au/~e13322/hai_dong/papers/APSEC_2021.pdf)<br>
+- ``APSEC'21`` [Smart contract vulnerability detection using code representation fusion.](https://titan.csit.rmit.edu.au/~e13322/hai_dong/papers/APSEC_2021.pdf)<br>
   <span style="color: blue;">**Ben Wang**</span>, Hanting Chu, Pengcheng Zhang, Hai Dong.<br>
   In *Asia-Pacific Software Engineering Conference*. (<span style="color:red">CCF-C</span>)
 <!-- - [Automatic Commit Range Identification of Untagged Version](https://ieeexplore.ieee.org/abstract/document/10967335), Yan Zhu, Lingfeng Bao, Chengjie Chen, Lexiao Zhang, <span style="color: blue;">**Xin Yin**</span>, Chao Ni, **APSEC 2024, CCF-C** -->
