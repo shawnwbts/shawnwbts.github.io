@@ -37,15 +37,15 @@ In 2025, I will lead or participate in the following research topics:
 </div> -->
 
 ## Peer-Reviewed
-- [SCAnoGenerator: Automatic Anomaly Injection for Ethereum Smart Contracts.](minor revisions)<br>
+- ``TOSEM'25``[A Review of Learning-based Smart Contract Vulnerability Detection: A Perspective on Code Representation.](minor revisions)<br>
   <span style="color: blue;">**Ben Wang**</span>, Yanxiang Tong, Shunhui Ji, Hai Dong, Xiapu Luo, Pengcheng Zhang.<br>
-  In *ACM Transactions on Software Engineering and Methodology (TOSEM'25)*. (<span style="color:red">CCF-A</span>)
-- [SCAnoGenerator: Automatic Anomaly Injection for Ethereum Smart Contracts.](https://titan.csit.rmit.edu.au/~e13322/hai_dong/papers/TSE_SCAnoGenerator.pdf)<br>
+  In *ACM Transactions on Software Engineering and Methodology*. (<span style="color:red">CCF-A</span>)
+- ``TSE'25``[SCAnoGenerator: Automatic Anomaly Injection for Ethereum Smart Contracts.](https://titan.csit.rmit.edu.au/~e13322/hai_dong/papers/TSE_SCAnoGenerator.pdf)<br>
   Pengcheng Zhang, <span style="color: blue;">**Ben Wang\#**</span>, Xiapu Luo, Hai Dong.<br>
-  In *IEEE Transactions on Software Engineering (TSE'24)*. (<span style="color:red">CCF-A</span>)
-- [Smart contract vulnerability detection using code representation fusion.](https://titan.csit.rmit.edu.au/~e13322/hai_dong/papers/APSEC_2021.pdf)<br>
+  In *IEEE Transactions on Software Engineering*. (<span style="color:red">CCF-A</span>)
+- ``APSEC'21``[Smart contract vulnerability detection using code representation fusion.](https://titan.csit.rmit.edu.au/~e13322/hai_dong/papers/APSEC_2021.pdf)<br>
   <span style="color: blue;">**Ben Wang**</span>, Hanting Chu, Pengcheng Zhang, Hai Dong.<br>
-  In *APSEC 2021, CCF-C*. (<span style="color:red">CCF-C</span>)
+  In *Asia-Pacific Software Engineering Conference*. (<span style="color:red">CCF-C</span>)
 <!-- - [Automatic Commit Range Identification of Untagged Version](https://ieeexplore.ieee.org/abstract/document/10967335), Yan Zhu, Lingfeng Bao, Chengjie Chen, Lexiao Zhang, <span style="color: blue;">**Xin Yin**</span>, Chao Ni, **APSEC 2024, CCF-C** -->
 <!-- - [FVA: Assessing Function-Level Vulnerability by Integrating Flow-Sensitive Structure and Code Statement Semantic](https://ieeexplore.ieee.org/abstract/document/10174072), Chao Ni, Liyu Shen, Wei Wang, Xiang Chen, <span style="color: blue;">**Xin Yin**</span>, Lexiao Zhang, **ICPC 2023, CCF-B** -->
 <!-- - [Spatio-temporal aware knowledge graph embedding for recommender systems](https://ieeexplore.ieee.org/abstract/document/10070740), Liu Yang, <span style="color: blue;">**Xin Yin\#**</span>, Jun Long, Tingxuan Chen, Jie Zhao, Wenti Huang, **ISPA 2022, CCF-C** -->
