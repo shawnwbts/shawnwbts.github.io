@@ -63,7 +63,7 @@ In 2025, I will lead or participate in the following research topics:
 
 
 # 💬 Invited Talks
-2025.04 参与 “第二届江苏省软件大会-优秀学生论坛”，作题为[《SCAnoGenerator：以太坊智能合约的漏洞自动注入》](https://en.hhu.edu.cn/)的分享
+2025.04 参与 “第二届江苏省软件大会-优秀学生论坛”，作题为[《SCAnoGenerator：以太坊智能合约的漏洞自动注入》](https://github.com/shawnwbts/shawnwbts.github.io/blob/main/images/e8b0ad59a5f26ae322e122aaec7c0d5.jpg)的分享
 
 # 💻 Internships
 
