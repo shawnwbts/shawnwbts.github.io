@@ -12,10 +12,12 @@ redirect_from:
 
 **Ben Wang (王奔)** is the two-year Ph.D. student at [Hohai University](https://en.hhu.edu.cn/), supervised by [Prof. Pengcheng Zhang](https://cies.hhu.edu.cn/2024/0521/c21523a280135/page.htm). 
 
-My research direction are **Large Language Model and Smart Contract Security**, including vulnerability detection, vulnerability injection, code generation, comment generation, etc. I have published papers at the top international conferences such as **TSE/TOSEM**.
+My research direction are **Large Language Model and Smart Contract Security**. I have published papers at the top international conferences such as **TSE/TOSEM**.
 
 In 2025, I will lead or participate in the following research topics:
+- Smart Contract Comment Generation
 - Smart Contract Code Generation
+- Smart Contract Vulnerability Detection
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉 One paper was accepted by TOSEM 2025!
