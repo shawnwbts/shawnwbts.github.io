@@ -51,9 +51,9 @@ In 2025, I will lead or participate in the following research topics:
 <!-- - [Spatio-temporal aware knowledge graph embedding for recommender systems](https://ieeexplore.ieee.org/abstract/document/10070740), Liu Yang, <span style="color: blue;">**Xin Yin\#**</span>, Jun Long, Tingxuan Chen, Jie Zhao, Wenti Huang, **ISPA 2022, CCF-C** -->
 
 ## Preprints
-- [Context-Aware Smart Contract Comment Generation Using Information Retrieval and Scenario-Driven Chain-of-Thought.](minor revisions)<br>
+<!-- - [Context-Aware Smart Contract Comment Generation Using Information Retrieval and Scenario-Driven Chain-of-Thought.](minor revisions)<br>
   <span style="color: blue;">**Ben Wang**</span>, Yanxiang Tong, Guang Yang, Xiao Wang, Hai Dong, Pengcheng Zhang.<br>
-  In *the 40th IEEE/ACM Automated Software Engineering Conference (ASE 2025).*(<span style="color:red">CCF-A</span>)
+  In *the 40th IEEE/ACM Automated Software Engineering Conference (ASE 2025).*(<span style="color:red">CCF-A</span>)-->
 
 
 # 🎖 Honors and Awards
