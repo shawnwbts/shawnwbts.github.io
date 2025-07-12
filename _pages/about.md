@@ -12,12 +12,15 @@ redirect_from:
 
 **Ben Wang (王奔)** is the two-year Ph.D. student at [Hohai University](https://en.hhu.edu.cn/), supervised by [Prof. Pengcheng Zhang](https://cies.hhu.edu.cn/2024/0521/c21523a280135/page.htm). 
 
-My research interest includes **Large Language Model and Software Security**. I have published papers at the top international conferences such as **TSE/TOSEM**. I developed a few well-known approaches including:
+My research direction are **Large Language Model and Smart Contract Security**, including vulnerability detection, vulnerability injection, code generation, comment generation, etc. I have published papers at the top international conferences such as **TSE/TOSEM**.
 
 In 2025, I will lead or participate in the following research topics:
-- Software Testing: Unit Test Generation
-- Large Language Models (LLMs): Knowledge Editing
+- Smart Contract Code Generation
 
+# 🔥 News
+- *2025.07*: &nbsp;🎉 One paper was accepted by TOSEM 2025!
+<!-- - *2024.09*: &nbsp;🎉 One paper was accepted by APSEC 2024! -->
+- *2024.09*: &nbsp;🎉 One paper was accepted by TSE 2024!
 
 # 📝 Selected Publications
 <!-- **\# denotes co-first author or first student author** -->
