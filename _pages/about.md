@@ -46,7 +46,7 @@ In 2025, I will lead or participate in the following research topics:
   <span style="color: blue;">**Ben Wang**</span>, Yanxiang Tong\*, Shunhui Ji, Hai Dong, Xiapu Luo, Pengcheng Zhang\*.<br>
   In *ACM Transactions on Software Engineering and Methodology (TOSEM'25)*. (<span style="color:red">CCF-A</span>)
 - [SCAnoGenerator: Automatic Anomaly Injection for Ethereum Smart Contracts.](https://titan.csit.rmit.edu.au/~e13322/hai_dong/papers/TSE_SCAnoGenerator.pdf)<br>
-  Pengcheng Zhang*, <span style="color: blue;">**Ben Wang\#* **</span>, Xiapu Luo, Hai Dong.<br>
+  Pengcheng Zhang*, <span style="color: blue;">**Ben Wang\#\***</span>, Xiapu Luo, Hai Dong.<br>
   In *IEEE Transactions on Software Engineering (TSE'24)*. (<span style="color:red">CCF-A</span>)
 - [LLMs-Driven Vulnerability Detection Combining LogicASG Reasoning with In-Context Learning.](accept)<br>
   Wenhui Xia, Yanxiang Tong, <span style="color: blue;">**Ben Wang**</span>, Pengcheng Zhang\*.<br>
