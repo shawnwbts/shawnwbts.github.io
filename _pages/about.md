@@ -42,6 +42,9 @@ In 2025, I will lead or participate in the following research topics:
 </div> -->
 
 ## Peer-Reviewed
+- [Context-Aware Comment Generation Using Information Retrieval and Scenario-Driven Chain-of-Thought.](minor revisions)<br>
+  <span style="color: blue;">**Ben Wang**</span>, Yanxiang Tong\*, Guang Yang, Xiao Wang, Hai Dong, Pengcheng Zhang\*.<br>
+  In *the 40th IEEE/ACM Automated Software Engineering Conference (ASE'25)*. (<span style="color:red">CCF-A</span>)
 - [A Review of Learning-based Smart Contract Vulnerability Detection: A Perspective on Code Representation.](minor revisions)<br>
   <span style="color: blue;">**Ben Wang**</span>, Yanxiang Tong\*, Shunhui Ji, Hai Dong, Xiapu Luo, Pengcheng Zhang\*.<br>
   In *ACM Transactions on Software Engineering and Methodology (TOSEM'25)*. (<span style="color:red">CCF-A</span>)
