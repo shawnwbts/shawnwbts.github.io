@@ -20,6 +20,7 @@ In 2025, I will lead or participate in the following research topics:
 - Smart Contract Vulnerability Detection
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉 One paper was accepted by ASE 2025!
 - *2025.07*: &nbsp;🎉 One paper was accepted by TOSEM 2025!
 <!-- - *2024.09*: &nbsp;🎉 One paper was accepted by APSEC 2024! -->
 - *2024.09*: &nbsp;🎉 One paper was accepted by TSE 2024!
