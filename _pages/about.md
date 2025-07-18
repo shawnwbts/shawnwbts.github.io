@@ -27,7 +27,7 @@ In 2025, I will lead or participate in the following research topics:
 # 📝 Selected Publications
 <!-- **\# denotes co-first author or first student author, \* denotes corresponding author** -->
 <span style="color:#ff00fc">**\# denotes co-first author or first student author, \* denotes corresponding author**</span>  
-<span style="color:blue">Representative papers:</span> <span style="color:red">2</span> <span style="color:blue">CCF-A papers</span>
+<span style="color:blue">Representative papers:</span> <span style="color:red">3</span> <span style="color:blue">CCF-A papers</span>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
