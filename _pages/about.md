@@ -20,6 +20,7 @@ In 2025, I will lead or participate in the following research topics with [Xin Y
 - Smart Contract Vulnerability Detection
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉 One paper was accepted by ESWA 2026!
 - *2025.07*: &nbsp;🎉 One paper was accepted by TOSEM 2025!
 <!-- - *2024.09*: &nbsp;🎉 One paper was accepted by APSEC 2024! -->
 - *2024.09*: &nbsp;🎉 One paper was accepted by TSE 2024!
@@ -65,8 +66,8 @@ In 2025, I will lead or participate in the following research topics with [Xin Y
 <!-- - [Context-Aware Smart Contract Comment Generation Using Information Retrieval and Scenario-Driven Chain-of-Thought.](minor revisions)<br>
   <span style="color: blue;">**Ben Wang**</span>, Yanxiang Tong, Guang Yang, Xiao Wang, Hai Dong, Pengcheng Zhang.<br>
   In *the 40th IEEE/ACM Automated Software Engineering Conference (ASE'25)*. (<span style="color:red">CCF-A</span>)-->
-  - [Context-Aware Comment Generation Using Information Retrieval and Scenario-Driven Chain-of-Thought.](minor revisions)<br>
-  <span style="color: blue;">**Ben Wang**</span>, Yanxiang Tong\*, Guang Yang, Xiao Wang, Hai Dong, Pengcheng Zhang\*.<br>
+  <!-- - [Context-Aware Comment Generation Using Information Retrieval and Scenario-Driven Chain-of-Thought.](minor revisions)<br>
+  <span style="color: blue;">**Ben Wang**</span>, Yanxiang Tong\*, Guang Yang, Xiao Wang, Hai Dong, Pengcheng Zhang\*.<br>-->
 
 
 # 🎖 Honors and Awards
