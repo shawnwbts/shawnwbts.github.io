@@ -21,7 +21,7 @@ In 2025, I will lead or participate in the following research topics with [Xin Y
 
 # 🔥 News
 - *2026.03*: &nbsp;🎉 One paper was accepted by ESWA 2026!
-- *2025.12*: Received a verbal offer from an overseas supervisor and will apply for the CSC Scholarship. Planned one-year joint Ph.D. training abroad (Sep. 2026 – Aug. 2027).
+- *2025.12*: &nbsp;🎉 Received a verbal offer from an overseas supervisor and will apply for the CSC Scholarship. Planned one-year joint Ph.D. training abroad (Sep. 2026 – Aug. 2027).
 - *2025.07*: &nbsp;🎉 One paper was accepted by TOSEM 2025!
 <!-- - *2024.09*: &nbsp;🎉 One paper was accepted by APSEC 2024! -->
 - *2024.09*: &nbsp;🎉 One paper was accepted by TSE 2024!
