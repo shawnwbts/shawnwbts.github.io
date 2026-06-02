@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Ben Wang (王奔)** is the two-year Ph.D. student at [Hohai University](https://en.hhu.edu.cn/), supervised by [Prof. Pengcheng Zhang](https://cies.hhu.edu.cn/2024/0521/c21523a280135/page.htm). From Sep. 2026 to Aug. 2027, I will conduct collaborative research as a China Scholarship Council (CSC) jointly-trained PhD student at the School of Computing and Information Systems, Singapore Management University, under the co-supervision of Professor [Lingxiao Jiang](https://faculty.smu.edu.sg/profile/jiang-lingxiao-896).
+**Ben Wang (王奔)** is the two-year Ph.D. student at [Hohai University](https://en.hhu.edu.cn/), supervised by [Prof. Pengcheng Zhang](https://cies.hhu.edu.cn/2024/0521/c21523a280135/page.htm). From Sep. 2026 to Aug. 2027, I will conduct collaborative research as a China Scholarship Council (CSC) jointly-trained PhD student at the School of Computing and Information Systems, Singapore Management University, under the co-supervision of [Pro. Lingxiao Jiang](https://faculty.smu.edu.sg/profile/jiang-lingxiao-896).
 
 My research directions are **Large Language Model and Smart Contract Security**. I have published papers at the top international journals such as **TSE/TOSEM**.
 
