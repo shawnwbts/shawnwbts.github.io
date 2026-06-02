@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Ben Wang (王奔)** is the two-year Ph.D. student at [Hohai University](https://en.hhu.edu.cn/), supervised by [Prof. Pengcheng Zhang](https://cies.hhu.edu.cn/2024/0521/c21523a280135/page.htm). 
+**Ben Wang (王奔)** is the two-year Ph.D. student at [Hohai University](https://en.hhu.edu.cn/), supervised by [Prof. Pengcheng Zhang](https://cies.hhu.edu.cn/2024/0521/c21523a280135/page.htm). From Sep. 2026 to Aug. 2027, I will conduct collaborative research as a China Scholarship Council (CSC) jointly-trained PhD student at the School of Computing and Information Systems, Singapore Management University, under the co-supervision of Professor [Lingxiao Jiang](https://faculty.smu.edu.sg/profile/jiang-lingxiao-896).
 
 My research directions are **Large Language Model and Smart Contract Security**. I have published papers at the top international journals such as **TSE/TOSEM**.
 
@@ -21,7 +21,7 @@ In 2025, I will lead or participate in the following research topics with [Xin Y
 
 # 🔥 News
 - *2026.03*: &nbsp;🎉 One paper was accepted by ESWA 2026!
-- *2025.12*: &nbsp;🎉 Received a verbal offer from an overseas supervisor and will apply for the CSC Scholarship. Planned one-year joint Ph.D. training abroad (Sep. 2026 – Aug. 2027).
+- *2025.12*: &nbsp;🎉 Received a verbal offer from an overseas supervisor and will apply for the CSC Scholarship. Planned one-year joint Ph.D. training abroad under the guidance of [Lingxiao Jiang](https://faculty.smu.edu.sg/profile/jiang-lingxiao-896)(Sep. 2026 – Aug. 2027).
 - *2025.07*: &nbsp;🎉 One paper was accepted by TOSEM 2025!
 <!-- - *2024.09*: &nbsp;🎉 One paper was accepted by APSEC 2024! -->
 - *2024.09*: &nbsp;🎉 One paper was accepted by TSE 2024!
