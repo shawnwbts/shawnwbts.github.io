@@ -14,12 +14,13 @@ redirect_from:
 
 My research directions are **Large Language Model and Smart Contract Security**. I have published papers at the top international journals such as **TSE/TOSEM**.
 
-In 2025, I will lead or participate in the following research topics with [Xin Yin](https://vinci-grape.github.io/#/):
+In 2026, I will lead or participate in the following research topics:
 - Smart Contract Code Generation
 - Smart Contract Comment Generation
 - Smart Contract Vulnerability Detection
 
 # 🔥 News
+- *2026.06.25*: &nbsp;🎉 Awarded the 2026 Jiangsu Province Graduate Research Practice Innovation Program from June 2026 to May 2027.
 - *2026.05.28*: &nbsp;🎉 Awarded the CSC Scholarship and will join the research group of Prof. Lingxiao Jiang at Singapore Management University (SMU), Singapore, as a joint Ph.D. student from September 2026 to August 2027.
 - *2026.03*: &nbsp;🎉 One paper was accepted by ESWA 2026!
 - *2025.12*: &nbsp;🎉 Received a verbal offer from an overseas supervisor and will apply for the CSC Scholarship. Planned one-year joint Ph.D. training abroad under the guidance of [Lingxiao Jiang](https://faculty.smu.edu.sg/profile/jiang-lingxiao-896)(Sep. 2026 – Aug. 2027).
