@@ -29,7 +29,7 @@ In 2026, I will lead or participate in the following research topics:
 <!-- - *2024.09*: &nbsp;🎉 One paper was accepted by APSEC 2024! -->
 - *2024.09*: &nbsp;🎉 One paper was accepted by <span style="color: purple;">TSE</span>!
 
-# 📝 Selected Publications
+# 📝 Publications
 <!-- **\# denotes co-first author or first student author, \* denotes corresponding author** -->
 <span style="color:#ff00fc">**\# denotes co-first author or first student author, \* denotes corresponding author**</span>  
 <span style="color:blue">Representative papers:</span> <span style="color:red">2</span> <span style="color:blue">CCF-A papers</span>
