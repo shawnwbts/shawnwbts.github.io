@@ -45,7 +45,7 @@ In 2026, I will lead or participate in the following research topics:
 </div>
 </div> -->
 
-## Peer-Reviewed
+## Selected Publications
 - [A Review of Learning-based Smart Contract Vulnerability Detection: A Perspective on Code Representation.](https://dl.acm.org/doi/abs/10.1145/3750042)<br>
   <span style="color: blue;">**Ben Wang**</span>, Yanxiang Tong\*, Shunhui Ji, Hai Dong, Xiapu Luo, Pengcheng Zhang\*.<br>
   In *ACM Transactions on Software Engineering and Methodology (TOSEM'25)*. (<span style="color:red">CCF-A, 中科院1区</span>)
@@ -55,15 +55,20 @@ In 2026, I will lead or participate in the following research topics:
 - [Context-Aware Smart Contract Comment Generation Using Information Retrieval and Scenario-Driven Chain-of-Thought.](https://www.sciencedirect.com/science/article/pii/S0957417426009619?via%3Dihub)<br>
   <span style="color: blue;">**Ben Wang**</span>, Yanxiang Tong, Guang Yang, Xiao Wang, Hai Dong, Yan Xiao, Pengcheng Zhang\*.<br>
   In *Expert Systems With Applications (ESWA'26)*. (<span style="color:red">CCF-C, 中科院1区</span>)
-- [LLMs-Driven Vulnerability Detection Combining LogicASG Reasoning with In-Context Learning.](accept)<br>
-  Wenhui Xia, Yanxiang Tong, <span style="color: blue;">**Ben Wang**</span>, Pengcheng Zhang\*.<br>
-  In *International Computer Software and Applications Conference (COMPSAC'25)*. (<span style="color:red">CCF-C</span>)
 - [Smart contract vulnerability detection using code representation fusion.](https://titan.csit.rmit.edu.au/~e13322/hai_dong/papers/APSEC_2021.pdf)<br>
   <span style="color: blue;">**Ben Wang**</span>, Hanting Chu, Pengcheng Zhang\*, Hai Dong.<br>
   In *Asia-Pacific Software Engineering Conference (APSEC'21 Poster)*. (<span style="color:red">CCF-C</span>)
-<!-- - [Automatic Commit Range Identification of Untagged Version](https://ieeexplore.ieee.org/abstract/document/10967335), Yan Zhu, Lingfeng Bao, Chengjie Chen, Lexiao Zhang, <span style="color: blue;">**Xin Yin**</span>, Chao Ni, **APSEC 2024, CCF-C** -->
-<!-- - [FVA: Assessing Function-Level Vulnerability by Integrating Flow-Sensitive Structure and Code Statement Semantic](https://ieeexplore.ieee.org/abstract/document/10174072), Chao Ni, Liyu Shen, Wei Wang, Xiang Chen, <span style="color: blue;">**Xin Yin**</span>, Lexiao Zhang, **ICPC 2023, CCF-B** -->
-<!-- - [Spatio-temporal aware knowledge graph embedding for recommender systems](https://ieeexplore.ieee.org/abstract/document/10070740), Liu Yang, <span style="color: blue;">**Xin Yin\#**</span>, Jun Long, Tingxuan Chen, Jie Zhao, Wenti Huang, **ISPA 2022, CCF-C** -->
+
+## Collaborative Publications
+- [Enhancing Smart Contract Vulnerability Detection via Dual-Source Feature Extraction and Fusion.](https://www.sciencedirect.com/science/article/pii/S2096720926000382)<br>
+  Xiao Wang, Yanxiang Tong, Hai Dong, <span style="color: blue;">**Ben Wang**</span>, Yan Xiao, Pengcheng Zhang\*.<br>
+  In *Blockchain: Research and Applications (BCRA'26)*. (<span style="color:red">CCF-B, 中科院1区</span>)
+- [LLMs-Driven Vulnerability Detection Combining LogicASG Reasoning with In-Context Learning.](accept)<br>
+  Wenhui Xia, Yanxiang Tong, <span style="color: blue;">**Ben Wang**</span>, Pengcheng Zhang\*.<br>
+  In *International Computer Software and Applications Conference (COMPSAC'25)*. (<span style="color:red">CCF-C</span>)
+- [OSEL: boosting vulnerability detection with opcode slicing-enhanced feature learning.](https://link.springer.com/article/10.1007/s11219-025-09734-3)<br>
+  Yanxiang Tong, Shengkai Gao, Mingyue Zhang, <span style="color: blue;">**Ben Wang**</span>, Shunhui Ji, Pengcheng Zhang\*<br>
+  In *Software Quality Journal (SQJ'25)*. (<span style="color:red">CCF-C</span>)
 
 ## Preprints
 <!-- - [Context-Aware Smart Contract Comment Generation Using Information Retrieval and Scenario-Driven Chain-of-Thought.](minor revisions)<br>
