@@ -62,7 +62,7 @@ In 2026, I will lead or participate in the following research topics:
 ## Collaborative Publications
 - [Enhancing Smart Contract Vulnerability Detection via Dual-Source Feature Extraction and Fusion.](https://www.sciencedirect.com/science/article/pii/S2096720926000382)<br>
   Xiao Wang, Yanxiang Tong, Hai Dong, <span style="color: blue;">**Ben Wang**</span>, Yan Xiao, Pengcheng Zhang\*.<br>
-  In *Blockchain: Research and Applications (BCRA'26)*. (<span style="color:red">CCF-B, 中科院1区</span>)
+  In *Blockchain: Research and Applications (BCRA'26)*. (<span style="color:red">CCF-B, 中科院2区</span>)
 - [LLMs-Driven Vulnerability Detection Combining LogicASG Reasoning with In-Context Learning.](accept)<br>
   Wenhui Xia, Yanxiang Tong, <span style="color: blue;">**Ben Wang**</span>, Pengcheng Zhang\*.<br>
   In *International Computer Software and Applications Conference (COMPSAC'25)*. (<span style="color:red">CCF-C</span>)
