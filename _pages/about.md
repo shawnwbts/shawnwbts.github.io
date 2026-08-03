@@ -15,6 +15,7 @@ redirect_from:
 My research directions are **Large Language Model and Smart Contract Security**. I have published papers at the top international journals such as **TSE/TOSEM**.
 
 In 2026, I will lead or participate in the following research topics:
+- Smart Contract Vulnerability Repair
 - Smart Contract Code Generation
 - Smart Contract Comment Generation
 - Smart Contract Vulnerability Detection
