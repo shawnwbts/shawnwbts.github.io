@@ -69,6 +69,9 @@ In 2026, I will lead or participate in the following research topics:
 - [OSEL: boosting vulnerability detection with opcode slicing-enhanced feature learning.](https://link.springer.com/article/10.1007/s11219-025-09734-3)<br>
   Yanxiang Tong, Shengkai Gao, Mingyue Zhang, <span style="color: blue;">**Ben Wang**</span>, Shunhui Ji, Pengcheng Zhang\*<br>
   In *Software Quality Journal (SQJ'25)*. (<span style="color:red">CCF-C</span>)
+- [Cross-chain Anomalous Transaction Detection Based on BERT Model.](https://www.ecice06.com/CN/10.19678/j.issn.1000-3428.0070479)<br>
+  Zhenlong Shen, Yanxiang Tong\*, Xiao Wang, <span style="color: blue;">**Ben Wang**</span>, Pengcheng Zhang<br>
+  In *Computer Engineering 计算机工程*. (<span style="color:red">中文核心</span>)
 
 ## Preprints
 <!-- - [Context-Aware Smart Contract Comment Generation Using Information Retrieval and Scenario-Driven Chain-of-Thought.](minor revisions)<br>
