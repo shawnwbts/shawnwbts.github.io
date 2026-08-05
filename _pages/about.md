@@ -55,7 +55,7 @@ In 2026, I will lead or participate in the following research topics:
   In *IEEE Transactions on Software Engineering (TSE'24)*. (<span style="color:red">CCF-A, 中科院1区</span>)
 - [Context-Aware Smart Contract Comment Generation Using Information Retrieval and Scenario-Driven Chain-of-Thought.](https://www.sciencedirect.com/science/article/pii/S0957417426009619?via%3Dihub)<br>
   <span style="color: blue;">**Ben Wang**</span>, Yanxiang Tong, Guang Yang, Xiao Wang, Hai Dong, Yan Xiao, Pengcheng Zhang\*.<br>
-  In *Expert Systems With Applications (ESWA'26)*. (<span style="color:red">CCF-C, 中科院1区</span>)
+  In *Expert Systems With Applications (ESWA'26)*. (<span style="color:red">中科院1区</span>)
 - [Smart contract vulnerability detection using code representation fusion.](https://titan.csit.rmit.edu.au/~e13322/hai_dong/papers/APSEC_2021.pdf)<br>
   <span style="color: blue;">**Ben Wang**</span>, Hanting Chu, Pengcheng Zhang\*, Hai Dong.<br>
   In *Asia-Pacific Software Engineering Conference (APSEC'21 Poster)*. (<span style="color:red">CCF-C</span>)
