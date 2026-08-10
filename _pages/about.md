@@ -86,7 +86,7 @@ In 2026, I will lead or participate in the following research topics:
 
 
 # 💬 Academic Services
-## Journal
+## Journal (Invited Reviewer)
 - **CCF A** | ACM Transactions on Software Engineering and Methodology (TOSEM)
 # 📖 Educations
 
