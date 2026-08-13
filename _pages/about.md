@@ -83,7 +83,7 @@ In 2026, I will lead or participate in the following research topics:
 
 
 # 🎖 Research Grants
-- Granted the 2026 Jiangsu Province Graduate Research Practice Innovation Program (Grant 26CXJY1533).
+- The 2026 Jiangsu Province Graduate Research Practice Innovation Program (Grant 26CXJY1533) 2026.06-2027.07 PI
 
 # 💬 Academic Services
 ## Journal (Invited Reviewer)
