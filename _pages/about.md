@@ -82,7 +82,7 @@ In 2026, I will lead or participate in the following research topics:
   <span style="color: blue;">**Ben Wang**</span>, Yanxiang Tong\*, Guang Yang, Xiao Wang, Hai Dong, Pengcheng Zhang\*.<br>-->
 
 
-# 🎖 Honors and Awards
+# 🎖 Research Grants
 - Granted the 2026 Jiangsu Province Graduate Research Practice Innovation Program (Grant 26CXJY1533).
 
 # 💬 Academic Services
