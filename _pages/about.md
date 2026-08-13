@@ -83,7 +83,7 @@ In 2026, I will lead or participate in the following research topics:
 
 
 # 🎖 Honors and Awards
-
+- Granted the 2026 Jiangsu Province Graduate Research Practice Innovation Program (Grant 26CXJY1533).
 
 # 💬 Academic Services
 ## Journal (Invited Reviewer)
@@ -92,7 +92,7 @@ In 2026, I will lead or participate in the following research topics:
 
 
 # 💬 Invited Talks
-2025.04, Glad to present our latest findings at the Outstanding Student Forum of Jiangsu Software Conference (2025.04.13)
+- 2025.04, Glad to present our latest findings at the Outstanding Student Forum of Jiangsu Software Conference (2025.04.13)
 [《SCAnoGenerator：以太坊智能合约的漏洞自动注入》](https://github.com/shawnwbts/shawnwbts.github.io/blob/main/images/e8b0ad59a5f26ae322e122aaec7c0d5.jpg)
 
 # 💻 Internships
