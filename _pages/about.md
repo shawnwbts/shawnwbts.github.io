@@ -75,6 +75,7 @@ In 2026, I will lead or participate in the following research topics:
   In *Computer Engineering 计算机工程*. (<span style="color:red">中文核心</span>)
 
 ## Preprints
+- Two papers are currently under submission to TOSEM: one is in major revision, and the other is under review. 
 <!-- - [Context-Aware Smart Contract Comment Generation Using Information Retrieval and Scenario-Driven Chain-of-Thought.](minor revisions)<br>
   <span style="color: blue;">**Ben Wang**</span>, Yanxiang Tong, Guang Yang, Xiao Wang, Hai Dong, Pengcheng Zhang.<br>
   In *the 40th IEEE/ACM Automated Software Engineering Conference (ASE'25)*. (<span style="color:red">CCF-A</span>)-->
