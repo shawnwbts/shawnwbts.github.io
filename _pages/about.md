@@ -61,6 +61,9 @@ In 2026, I will lead or participate in the following research topics:
   In *Asia-Pacific Software Engineering Conference (APSEC'21 Poster)*. (<span style="color:red">CCF-C</span>)
 
 ## Collaborative Publications
+- [Detecting Vulnerabilities in EOSIO Smart Contracts via Joint Static and Dynamic Feature Learning]()<br>
+  Xiao Wang, Yanxiang Tong, Hai Dong, <span style="color: blue;">**Ben Wang**</span>, Yan Xiao, Pengcheng Zhang\*.<br>
+  In *ACM Transactions on Software Engineering and Methodology (TOSEM'25)*. (<span style="color:red">CCF-A, 中科院1区</span>)
 - [Enhancing Smart Contract Vulnerability Detection via Dual-Source Feature Extraction and Fusion.](https://www.sciencedirect.com/science/article/pii/S2096720926000382)<br>
   Xiao Wang, Yanxiang Tong, Hai Dong, <span style="color: blue;">**Ben Wang**</span>, Yan Xiao, Pengcheng Zhang\*.<br>
   In *Blockchain: Research and Applications (BCRA'26)*. (<span style="color:red">CCF-B, 中科院2区</span>)
